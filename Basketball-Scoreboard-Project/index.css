@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+
+    text-align: center;
+
+    color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.num1 {
+    background-color: black;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+    margin-left: 168px;
+    margin-bottom: 50px;
+}
+
+.num {
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL';
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+}
+h3 {
+    color: white;
+}
+
+button {
+    color: #9AABD8;
+    width: 155px;
+    height: 45px;
+    left: 337px;
+    top: 271px;
+}
